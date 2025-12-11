@@ -1,4 +1,4 @@
-situs aktif di
+site live at:
 https://stairlanggapw.github.io/classprofile/
 
 Steps to use this website:
